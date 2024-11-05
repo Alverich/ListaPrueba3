@@ -10,7 +10,10 @@ http://tv.nousiptv.com:8080/Gisella21/AB8935/4069
 http://tv.nousiptv.com:8080/Gisella21/AB8935/1155807
 
 #EXTINF:-1 tvg-id="Discovery Familia" tvg-name="CUL | Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Discovery_Familia_2007-2010.png" group-title="⭐MUNDO Y CULTURA HD⭐",Discovery Familia ᴴᴰ @ 
+http://tvgusplay.info:8080/pandconv3/HTVFuZ5PePNG/92921
 
+#EXTINF:-1 tvg-id="" tvg-name="CUL | LOVE NATURE (HD)" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="⭐⭐MUNDO Y CULTURA HD⭐⭐",CUL | LOVE NATURE (HD)
+http://181.78.86.226:8086/play/a06t
 
 #EXTINF:-1 tvg-id="Discovery ID HD" tvg-name="CUL | Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="⭐MUNDO Y CULTURA HD⭐",MYC - DISCOVERY ID FHD
 http://tv.nousiptv.com:8080/Gisella21/AB8935/1156012
